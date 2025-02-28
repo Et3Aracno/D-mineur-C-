@@ -57,11 +57,8 @@ Captures d'écran
 
 
 
-
-Ce projet est sous licence [Nom de la licence, ex. MIT]. Voir le fichier LICENSE pour plus d’informations.
-
 Contact
 
-Créé par [Votre Nom ou Pseudo] - [Votre Email ou Lien GitHub].
+Créé par Maxime Luhat - luhatmaxime@gmail.com .
 
-N’hésitez pas à ouvrir une issue si vous avez des questions !
+N’hésitez pas à me contacter par mail si vous avez des questions !
