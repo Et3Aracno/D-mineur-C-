@@ -1,64 +1,53 @@
-Démineur
+📢 DÉMINEUR 📢
 
-Bienvenue dans Démineur 7.0, une implémentation du jeu classique de démineur en C++.
+Bienvenue dans 🚀 Démineur 7.0, une implémentation du jeu classique de démineur en 🔥 C++.
 
-Description
+📝 DESCRIPTION
 
-Ce projet est une version console du jeu Démineur, développée en C++. Le but du jeu est de découvrir toutes les cases sans mines en un minimum de temps, tout en évitant d'exploser sur une mine.
+Ce projet est une version console du jeu Démineur, développée en C++.
+Le but du jeu est de découvrir toutes les cases sans mines en un minimum de temps, tout en évitant d'exploser sur une mine. 💥
 
-Fonctionnalités
+🎮 FONCTIONNALITÉS
 
-Grille de 16x16 cases
+✔ Grille de 16x16 cases
+✔ Placement aléatoire de 40 mines
+✔ Possibilité de sélectionner une difficulté
+✔ Système de drapeaux pour marquer les mines 🚩
+✔ Détection automatique des zones vides adjacentes
+✔ Affichage en console ASCII
+✔ Option de rejouer après une partie 🔄
 
-Placement aléatoire de 40 mines
-
-Possibilité de sélectionner une difficulté
-
-Système de drapeaux pour marquer les mines
-
-Détection automatique des zones vides adjacentes
-
-Affichage en console ASCII
-
-Option de rejouer après une partie
-
-Installation
-
-Prérequis
+📌 PRÉREQUIS
 
 Un compilateur C++ (GCC, Clang, MSVC, etc.)
 
+🕹 UTILISATION
 
-Utilisation
+🔹 Choisissez la difficulté en sélectionnant un niveau parmi Facile, Moyen et Difficile.
 
-Choisissez la difficulté en sélectionnant un niveau parmi Facile, Moyen et Difficile.
+🔹 Interagissez avec la grille :
 
-Interagissez avec la grille :
+1 : ✖ Effacer un drapeau
 
-1 : Effacer un drapeau
+2 : 🚩 Placer un drapeau
 
-2 : Placer un drapeau
+3 : 🔍 Révéler une case
 
-3 : Révéler une case
+4 : ❌ Quitter la partie
 
-4 : Quitter la partie
+🔹 🏆 Gagnez en découvrant toutes les cases sans mines.
 
-Gagnez en découvrant toutes les cases sans mines.
+🔹 💥 Perdez si vous révélez une mine.
 
-Perdez si vous révélez une mine.
+🔹 🔄 Rejouez ou quittez après la fin d'une partie.
 
-Rejouez ou quittez après la fin d'une partie.
-
-Captures d'écran
+📸 CAPTURES D'ÉCRAN
 
 ![Capture d'écran 2025-02-28 131601](https://github.com/user-attachments/assets/e83bfce3-38cb-4716-84c2-8be52c66547e)
 
 
+📧 CONTACT
 
+Créé par Maxime Luhat - 📩 luhatmaxime@gmail.com
 
-
-Contact
-
-Créé par Maxime Luhat - luhatmaxime@gmail.com .
-
-N’hésitez pas à me contacter par mail si vous avez des questions !
+📢 N’hésitez pas à me contacter par mail si vous avez des questions ! 🚀
