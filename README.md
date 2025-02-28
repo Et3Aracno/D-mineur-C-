@@ -1,4 +1,4 @@
-Démineur 7.0
+Démineur
 
 Bienvenue dans Démineur 7.0, une implémentation du jeu classique de démineur en C++.
 
