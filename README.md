@@ -2,12 +2,14 @@
 
 Bienvenue dans 🚀 Démineur 7.0, une implémentation du jeu classique de démineur en 🔥 C++.
 
+
 📝 DESCRIPTION
 
 Ce projet est une version console du jeu Démineur, développée en C++.
 Le but du jeu est de découvrir toutes les cases sans mines en un minimum de temps, tout en évitant d'exploser sur une mine. 💥
 
-🎮 FONCTIONNALITÉS
+
+🎮FONCTIONNALITÉS
 
 ✔ Grille de 16x16 cases
 ✔ Placement aléatoire de 40 mines
@@ -17,9 +19,11 @@ Le but du jeu est de découvrir toutes les cases sans mines en un minimum de tem
 ✔ Affichage en console ASCII
 ✔ Option de rejouer après une partie 🔄
 
+
 📌 PRÉREQUIS
 
 Un compilateur C++ (GCC, Clang, MSVC, etc.)
+
 
 🕹 UTILISATION
 
@@ -41,13 +45,16 @@ Un compilateur C++ (GCC, Clang, MSVC, etc.)
 
 🔹 🔄 Rejouez ou quittez après la fin d'une partie.
 
+
 📂 CODE
 
 Le code source du projet se trouve dans la branche master du dépôt.
 
+
 📸 CAPTURES D'ÉCRAN
 
 ![Capture d'écran 2025-02-28 131601](https://github.com/user-attachments/assets/e83bfce3-38cb-4716-84c2-8be52c66547e)
+
 
 
 📧 CONTACT
