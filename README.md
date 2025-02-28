@@ -41,6 +41,10 @@ Un compilateur C++ (GCC, Clang, MSVC, etc.)
 
 🔹 🔄 Rejouez ou quittez après la fin d'une partie.
 
+📂 CODE
+
+Le code source du projet se trouve dans la branche master du dépôt.
+
 📸 CAPTURES D'ÉCRAN
 
 ![Capture d'écran 2025-02-28 131601](https://github.com/user-attachments/assets/e83bfce3-38cb-4716-84c2-8be52c66547e)
